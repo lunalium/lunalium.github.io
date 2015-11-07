@@ -12,9 +12,15 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
+#Disqus
+comments:            true
+disqus:
+  short_name:        lunalium
+  disqus_id:         utIE2XEkAWME3pCVRC3Sp26JFuZoigwLAoOABFrCGjSktkcycoT9sJNNz1DTZuHG
+
 # About/contact
 author:
-  name:              Mark Otto
+  name:              baj
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
